@@ -1,5 +1,5 @@
 # ML-Guide-using-Scikit-Learn
-I use Scikit Learn for the first time and use different datasets and models to understand Machine Learning
+I tried Scikit Learn for the first time and used different datasets and models to understand Machine Learning
 
 I used seaborn for visualizations and Data Exploratory Analysis.
 
